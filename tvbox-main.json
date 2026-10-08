@@ -19,6 +19,24 @@
   ],
   "sites": [
     {
+      "key": "MoDu",
+      "name": "魔都资源",
+      "type": 0,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MoDuVip",
+      "name": "魔都资源(备用)",
+      "type": 0,
+      "api": "https://moduzy.vip/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "影视豆瓣片单",
       "name": "网络影视",
       "type": 3,

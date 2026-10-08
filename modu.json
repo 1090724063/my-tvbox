@@ -1,1 +1,1 @@
-{"sites": [{"key": "MoDu", "name": "魔都资源", "type": 0, "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/", "searchable": 1, "quickSearch": 1, "ext": "?ac=detail&h=0"}]}
+{"sites": [{"key": "MoDu", "name": "魔都资源", "type": 1, "api": "https://www.mdzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1}]}

@@ -1,5 +1,10 @@
-// 傻傻视频 TVBox JS 源（本地JS源规范）
-// 站点: https://www.sbdgt.com  分类: /cat/{编号}  详情: /v/{短码} -> 直出 m3u8
+// ============================================================
+// 傻傻视频 影视仓/TVBox 自定义JS源
+// 站点: https://www.sbdgt.com
+// 分类: /cat/{编号}   列表: div#videos>div.item
+// 详情: /v/{短码} -> <source src="...index.m3u8">
+// 用法: modu.json 里 jar 字段指向本文件
+// ============================================================
 var rule = {
     title: '傻傻视频',
     host: 'https://www.sbdgt.com',
@@ -10,7 +15,7 @@ var rule = {
     quickSearch: 1,
     filterable: 0,
     headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Safari/537.36',
+        'User-Agent': 'Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Mobile Safari/537.36',
         'Referer': 'https://www.sbdgt.com/'
     },
     timeout: 8000,

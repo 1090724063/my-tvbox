@@ -1,0 +1,38 @@
+{
+  "lives": [
+    {
+      "name": "综合直播",
+      "url": "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "ua": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36",
+      "timeZone": "Asia/Shanghai",
+      "timeout": 15,
+      "boot": false
+    },
+    {
+      "name": "央视高清",
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u",
+      "epg": "https://live.fanmingming.cn/e.xml",
+      "ua": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36",
+      "timeZone": "Asia/Shanghai",
+      "timeout": 15
+    },
+    {
+      "name": "Aptv直播",
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "epg": "https://epg.aptv.app/xml",
+      "ua": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36",
+      "timeZone": "Asia/Shanghai",
+      "timeout": 15
+    },
+    {
+      "name": "IPv6直播",
+      "url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "epg": "https://live.fanmingming.cn/e.xml",
+      "ua": "Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36",
+      "timeZone": "Asia/Shanghai",
+      "timeout": 15
+    }
+  ],
+  "parses": []
+}

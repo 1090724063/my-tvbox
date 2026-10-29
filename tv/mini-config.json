@@ -4,7 +4,7 @@
       "key": "aqdlt",
       "name": "爱情岛",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/1090724063/my-tvbox/main/mini.js",
+      "api": "https://cdn.jsdelivr.net/gh/1090724063/my-tvbox@main/mini.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
